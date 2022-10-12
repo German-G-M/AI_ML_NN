@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T16:31:35.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TglFT_MxUhIWSbpDwAMq" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T20:46:03.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0KqvgX8p7l8jZqeaRL6V" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,16 +151,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--49" value="Qué hacen las redes neuronales?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="50" width="220" height="30" as="geometry" />
+          <mxGeometry x="440" y="40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--50" target="kI7NMbDENjyl0bNxZZE--51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--50" value="Cómo lo hacen?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="170" height="20" as="geometry" />
+          <mxGeometry x="450" y="100" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--51" value="backpropagation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="170" width="220" height="30" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--51" value="con backpropagation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--52" value="variaciones de las redes neuronales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="220" height="30" as="geometry" />
+          <mxGeometry x="495" y="190" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--53" value="Una red neuronal consiste en nodos y conecciones entre nodos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="400" width="120" height="60" as="geometry" />
@@ -205,16 +208,16 @@
           <mxGeometry x="240" y="685" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--63" value="softplus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="640" width="170" height="25" as="geometry" />
+          <mxGeometry x="450" y="635" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--64" value="ReLu (Rectified Linear Unit)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="685" width="170" height="25" as="geometry" />
+          <mxGeometry x="475" y="660" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--65" value="sigmoid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="742.5" width="170" height="25" as="geometry" />
+          <mxGeometry x="480" y="700" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="650" width="60" height="60" as="geometry" />
+          <mxGeometry x="630" y="600" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--66" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -229,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--70" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="700" y="725" width="60" height="60" as="geometry" />
+          <mxGeometry x="660" y="680" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--71" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -244,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--73" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="785" width="60" height="60" as="geometry" />
+          <mxGeometry x="665" y="760" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--74" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -286,7 +289,7 @@
           <mxGeometry x="160" y="600" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--93" value="No importa cuan complejo sean los valores de los datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="110" width="90" height="70" as="geometry" />
+          <mxGeometry x="725" y="110" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--95" target="kI7NMbDENjyl0bNxZZE--96">
           <mxGeometry relative="1" as="geometry" />
@@ -301,34 +304,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--95" value="&lt;b&gt;GRADIENT DESCENT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="65" y="810" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--96" target="kI7NMbDENjyl0bNxZZE--97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--96" value="Para optimizar valores (parámetros)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="840" width="75" height="50" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--96" target="kI7NMbDENjyl0bNxZZE--98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--127" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--96" target="kI7NMbDENjyl0bNxZZE--126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--96" target="kI7NMbDENjyl0bNxZZE--128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--96" value="Para &lt;b&gt;optimizar&lt;/b&gt; valores (parámetros)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="775" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--97" target="kI7NMbDENjyl0bNxZZE--123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--97" value="de intersección y pendiente en líneas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="820" width="110" height="30" as="geometry" />
+          <mxGeometry x="340" y="760" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--98" value="de intersección en lineas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="870" width="110" height="30" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--98" value="de la linea de función (squiggle=garabato) al usar &lt;b&gt;regresión logistica&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--101" value="Cuando tienes 2 o más derivadas de la misma función, estos son llamados gradientes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="920" width="120" height="90" as="geometry" />
+          <mxGeometry x="30" y="920" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--103" target="kI7NMbDENjyl0bNxZZE--108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--103" value="usamos este gradiente para descender al punto más bajo&amp;nbsp; en la &lt;b&gt;función de pérdida&lt;/b&gt; (&lt;b&gt;loss function&lt;/b&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="930" width="120" height="90" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--122" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--103" target="kI7NMbDENjyl0bNxZZE--121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--105" value="es un algoritmo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="790" width="120" height="20" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--103" value="usamos este gradiente para descender al punto más bajo&amp;nbsp; en la &lt;b&gt;función de pérdida&lt;/b&gt; (&lt;b&gt;loss function&lt;/b&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="850" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--105" value="es un algoritmo para encontrar el punto más bajo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="760" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--108" value="existen varias funciones de perdida. y el gradient Descent funciona igual con cualquier función de pérdida" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1070" width="120" height="90" as="geometry" />
+          <mxGeometry x="25" y="1050" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--110" target="kI7NMbDENjyl0bNxZZE--111">
           <mxGeometry relative="1" as="geometry" />
@@ -336,26 +354,98 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--110" target="kI7NMbDENjyl0bNxZZE--117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--110" value="BACKPROPAGATION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="970" width="80" height="40" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--110" value="&lt;b&gt;BACKPROPAGATION&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="150" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--111" target="kI7NMbDENjyl0bNxZZE--113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--111" value="Para optimizar los pesos (weights) y los sesgos (biases)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="631.25" y="870" width="140" height="70" as="geometry" />
+          <mxGeometry x="1121.25" y="20" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--113" target="kI7NMbDENjyl0bNxZZE--114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--113" value="usar la regla de cadena (chain rule) para calcular las derivadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="980" width="160" height="60" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--140" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--113" target="kI7NMbDENjyl0bNxZZE--139">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--114" value="ponemos las derivas en el Gradient Descent para optimizar los parametros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="632.5" y="1060" width="137.5" height="70" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--113" value="usar la regla de cadena (&lt;b&gt;chain rule&lt;/b&gt;) para calcular las derivadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="130" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--117" value="optimizar todos los parámetros de la NN simultaneamente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="391.25" y="1050" width="137.5" height="70" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--141" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--114" target="kI7NMbDENjyl0bNxZZE--139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--114" value="ponemos las derivas en el &lt;b&gt;Gradient Descent&lt;/b&gt; para optimizar los parametros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1122.5" y="210" width="137.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--117" target="kI7NMbDENjyl0bNxZZE--142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--117" value="conceptualmente empieza con el último parámetro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="200" width="137.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--50" target="kI7NMbDENjyl0bNxZZE--50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--121" target="kI7NMbDENjyl0bNxZZE--131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--121" value="Las NN empiezan con funciones de activación idénticas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="990" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--123" value="lo que se conoce como regresión lineal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="775" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--126" value="Se optimizan los &lt;b&gt;clusters&lt;/b&gt; (grupos) cuando se usa el &lt;b&gt;t-SNE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--128" value="Gradient Descent puede optimizar todo lo anterior y mucho más" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--130" value="basado en el canal de youtube: StatQuest with Josh Starmer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--131" target="kI7NMbDENjyl0bNxZZE--133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--131" value="pero, utilizando diferentes&amp;nbsp; pesos y sesgos en las conecciones, las funciones de activación se dan la vuelta (flip) o se extienden (stretch) en nuevas formas&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="1050" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--133" target="kI7NMbDENjyl0bNxZZE--135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--133" value="los cuales se juntan para obtener una curva de función (squiggle)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="1120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--135" target="kI7NMbDENjyl0bNxZZE--145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--135" value="luego, esta curva de función es movida (&lt;b&gt;shifted&lt;/b&gt;) para que se ajuste a los datos (esto se hace con el valor del bias)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--138" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--137" target="kI7NMbDENjyl0bNxZZE--110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--137" value="¿Cómo estimamos los valores de los pesos y los sesgos ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="30" width="137.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--139" value="ambos se pueden aplicar a múltiples parámetros simultáneamente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="160" width="137.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--142" value="y trabaja hacia atrás para estimar todos los demás parámetros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="285" width="137.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--144" value="El sesgo (bias) es generalmente inicializado en 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="30" width="137.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--148" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.469;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--145" target="kI7NMbDENjyl0bNxZZE--147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--145" value="Esta curva de función (squiggle) sale de la ultima parte de la NN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1050" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--147" value="Es la suma de todas las curvas que salen de los nodos (por medio de las funciones de activación) más el ultimo sesgo (bias)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="970" width="225" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

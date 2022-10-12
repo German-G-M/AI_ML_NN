@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T16:16:25.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5rI9cwsLPJPaqhxnIPyP" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T16:31:35.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TglFT_MxUhIWSbpDwAMq" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,13 +205,13 @@
           <mxGeometry x="240" y="685" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--63" value="softplus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="675" width="170" height="25" as="geometry" />
+          <mxGeometry x="450" y="640" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--64" value="ReLu (Rectified Linear Unit)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="715" width="170" height="25" as="geometry" />
+          <mxGeometry x="470" y="685" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--65" value="sigmoid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="785" width="170" height="25" as="geometry" />
+          <mxGeometry x="450" y="742.5" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--69" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="710" y="650" width="60" height="60" as="geometry" />
@@ -300,7 +300,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--95" target="kI7NMbDENjyl0bNxZZE--105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--95" value="GRADIENT DESCENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--95" value="&lt;b&gt;GRADIENT DESCENT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--96" target="kI7NMbDENjyl0bNxZZE--97">
@@ -329,6 +329,33 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--108" value="existen varias funciones de perdida. y el gradient Descent funciona igual con cualquier función de pérdida" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="25" y="1070" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--110" target="kI7NMbDENjyl0bNxZZE--111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--110" target="kI7NMbDENjyl0bNxZZE--117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--110" value="BACKPROPAGATION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="970" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--111" target="kI7NMbDENjyl0bNxZZE--113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--111" value="Para optimizar los pesos (weights) y los sesgos (biases)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="870" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--113" target="kI7NMbDENjyl0bNxZZE--114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--113" value="usar la regla de cadena (chain rule) para calcular las derivadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="980" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--114" value="ponemos las derivas en el Gradient Descent para optimizar los parametros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1060" width="137.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--117" value="optimizar todos los parámetros de la NN simultaneamente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391.25" y="1050" width="137.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

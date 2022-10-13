@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T00:47:06.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ERem-6lOdncAMiZGv7Pu" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T00:59:04.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="X8Dg3dendBmgXSPa6gRA" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
-    <mxGraphModel dx="1597" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1201,9 +1201,9 @@
           <mxGeometry y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--274" value="de 2 neuronas: n1 y n2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kI7NMbDENjyl0bNxZZE--356">
-          <mxGeometry x="490" width="150" height="30" as="geometry" />
+          <mxGeometry x="440" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--275" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="kI7NMbDENjyl0bNxZZE--356" source="kI7NMbDENjyl0bNxZZE--202" target="kI7NMbDENjyl0bNxZZE--274">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--275" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="kI7NMbDENjyl0bNxZZE--356" source="kI7NMbDENjyl0bNxZZE--202" target="kI7NMbDENjyl0bNxZZE--274">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--349" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--356">
@@ -1223,6 +1223,24 @@
               <mxPoint x="265" y="88.95000000000005" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--357" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--360" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--358" target="kI7NMbDENjyl0bNxZZE--359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--358" value="tiene&amp;nbsp; 3 segmentos lineales separados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1240" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--359" value="esto pasa por que cada neurona contribuye con un dobles (bent) al resultado final" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1370" width="105" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--361" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--219" target="kI7NMbDENjyl0bNxZZE--358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--362" value="&lt;i&gt;basado en el canal de yotube: AlgorithmicSimplicity&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1180" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T22:02:58.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rtIeSJQeUjVxbwZeXkRI" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T22:13:38.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4lOvbdK50BUvYfltTzdl" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1221" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3235,6 +3235,9 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1056" value="+ b2" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2040" y="2150" width="34" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1057" value="Las CNNs estan basadas en filtros, conocidos como convoluciones, aplicando una función de activación a las salidas del filtro, pooling la salida de la función de activación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="2228" y="2202" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

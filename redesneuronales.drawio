@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T00:59:04.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="X8Dg3dendBmgXSPa6gRA" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T01:24:07.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="P3FMTRJqZlNj5waWiWEy" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--128" value="Gradient Descent puede optimizar todo lo anterior y mucho más" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="920" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--130" value="basado en el canal de youtube: StatQuest with Josh Starmer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--130" value="&lt;i&gt;basado en el canal de youtube: StatQuest with Josh Starmer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--131" target="kI7NMbDENjyl0bNxZZE--133">
@@ -1241,6 +1241,18 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--362" value="&lt;i&gt;basado en el canal de yotube: AlgorithmicSimplicity&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="670" y="1180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--363" value="una&amp;nbsp; Red Neuronal con &quot;l&quot; capas (layers) y &quot;n&quot; neuronas en cada capa es capaz de expresar &quot;n&quot; a la potencia &quot;l&quot; de segmentos lineales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1500" width="105" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--366" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--364" target="kI7NMbDENjyl0bNxZZE--365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--364" value="la razón por la que funcionan las redes neuronales es por que encajan en los datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1660" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--365" value="no porque sea un modelo exacto del cerebro humano que es capaz de aprender y razonar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1810" width="105" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

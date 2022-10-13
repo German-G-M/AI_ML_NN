@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T01:24:07.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="P3FMTRJqZlNj5waWiWEy" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T02:21:52.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Rh8zIKjl15a4cqdhKbGD" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
           <mxGeometry x="480" y="700" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="600" width="60" height="60" as="geometry" />
+          <mxGeometry x="660" y="600" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--66" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -247,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--73" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="665" y="760" width="60" height="60" as="geometry" />
+          <mxGeometry x="657.5" y="760" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--74" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -481,16 +481,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--156" value="step size&lt;b&gt;=&lt;/b&gt;derivada del parametro &lt;b&gt;x &lt;/b&gt;tasa de aprendizaje&lt;br&gt;nuevo weight &lt;b&gt;= &lt;/b&gt;anterior weight &lt;b&gt;-&amp;nbsp;&lt;/b&gt; step size" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="390" width="342" height="45" as="geometry" />
+          <mxGeometry x="840" y="380" width="342" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--158" target="kI7NMbDENjyl0bNxZZE--161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--158" value="Se repite el proceso hasta que la predicción y&lt;b&gt;a no mejora más&lt;/b&gt; con el tiempo, o alcanzamos el &lt;b&gt;máximo numero de pasos&lt;/b&gt; o alcanzamos algun o&lt;b&gt;tro criterio&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070.5" y="460" width="169.5" height="80" as="geometry" />
+          <mxGeometry x="1065.25" y="450" width="169.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--161" value="en el ejemplo, la curva encaja en los datos después de 175 pasos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="450" width="137.5" height="70" as="geometry" />
+          <mxGeometry x="1288.75" y="450" width="137.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--163" value="usamos los valores predichos (predicted) para calcular el SSR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1532.5" y="200" width="110" height="70" as="geometry" />
@@ -507,14 +507,17 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--174" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--167" target="kI7NMbDENjyl0bNxZZE--173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--167" value="&lt;b&gt;ReLu Activation&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="868.75" y="650" width="100" height="35" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--378" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--167" target="kI7NMbDENjyl0bNxZZE--374">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--167" value="&lt;b&gt;ReLu Activation&lt;/b&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="858.75" y="635" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--168" value="Rectified Linear Unit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="565" width="137.5" height="40" as="geometry" />
+          <mxGeometry x="860" y="565" width="137.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--170" value="Es una de las funciones más populares para Aprendizaje Profundo y Redes neuronales convolucionales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="585" width="137.5" height="90" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--170" value="Es una de las funciones más populares para Aprendizaje Profundo y Redes neuronales convolucionales" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1038.75" y="552.5" width="137.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--173" value="Es común poner la función de activación antes de la ultima salida" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="868.75" y="720" width="137.5" height="40" as="geometry" />
@@ -528,6 +531,9 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--177" value="res1 *w3=r1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1201" y="845" width="78.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--368" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--178" target="kI7NMbDENjyl0bNxZZE--367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--178" value="(&lt;b&gt;input&lt;/b&gt;)*w2 + b2 = resultado2" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="910" y="920" width="168.5" height="30" as="geometry" />
         </mxCell>
@@ -537,8 +543,11 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--180" value="res2 *w4=r2" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1210" y="935" width="78.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--181" value="r1+r2 + b3 = resul" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1318.75" y="905" width="100" height="30" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--371" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--181" target="kI7NMbDENjyl0bNxZZE--370">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--181" value="(r1+r2) + b3 = resul" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="905" width="108.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--182" value="f(resul)=max (0, resul) = &lt;b&gt;salida&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1416" y="870" width="180" height="30" as="geometry" />
@@ -574,22 +583,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--194" value="Multiplicamos la coordenada&amp;nbsp; del eje &quot;y&quot; por w3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="740" width="123" height="45" as="geometry" />
+          <mxGeometry x="1338.5" y="780" width="123" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--197" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--196" target="kI7NMbDENjyl0bNxZZE--179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--196" value="función de activación ReLu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--196" value="función de activación &lt;b&gt;ReLu&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1087" y="1060" width="123" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--199" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--198" target="kI7NMbDENjyl0bNxZZE--180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--198" value="Multiplicamos la coordenada&amp;nbsp; del eje &quot;y&quot; por w4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="1010" width="123" height="45" as="geometry" />
+          <mxGeometry x="1350" y="1010" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--200" value="si w3 es negativo se invierte la linea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1473" y="670" width="123" height="45" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--200" value="si w3 es negativo se invertirá la linea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1461.5" y="715" width="123" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--356" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="10" y="1190" width="667.5" height="550" as="geometry" />
@@ -1234,7 +1243,7 @@
           <mxGeometry x="695" y="1240" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--359" value="esto pasa por que cada neurona contribuye con un dobles (bent) al resultado final" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1370" width="105" height="82.5" as="geometry" />
+          <mxGeometry x="692.5" y="1350" width="105" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--361" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--219" target="kI7NMbDENjyl0bNxZZE--358">
           <mxGeometry relative="1" as="geometry" />
@@ -1253,6 +1262,48 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--365" value="no porque sea un modelo exacto del cerebro humano que es capaz de aprender y razonar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="690" y="1810" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--367" value="El resultado es la coordenada &quot;x&quot; para la función de activación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870.75" y="990" width="135.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--376" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--370" target="kI7NMbDENjyl0bNxZZE--375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--370" value="sumamos todas las funciones resultantes y a esta curva final le sumamos el último sesgo (&lt;b&gt;bias&lt;/b&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="960" width="123" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--373" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--372" target="kI7NMbDENjyl0bNxZZE--176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--372" value="res1 es la coordenada &quot;y&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="707.5" width="150" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--379" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--374" target="kI7NMbDENjyl0bNxZZE--377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--374" value="esta función no es una línea curva y su ecuación es muy sencilla" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="670" width="137.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--375" value="así obtenemos una nueva forma que encaja con los datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1090" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--382" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--377" target="kI7NMbDENjyl0bNxZZE--380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--377" value="tiene dobleces en ves de curvas. esto significa que la derivada no está definida donde la función se dobla" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="615" width="137.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--383" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--380" target="kI7NMbDENjyl0bNxZZE--381">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--380" value="esto es un problema porque GradientDescent, que estima los pesos y los sesgos necesita las derivadas de todos los puntos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="562.5" width="137.5" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--381" value="pero no es un gran problema. podemos simplemente definir la derivada en el doblez como 0 o 1. realmente no imports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="432.5" width="137.5" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--384" value="&lt;i&gt;basado en el canal de youtube: StatQuest with Josh Starmer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1461.5" y="10" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T04:22:17.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XzQ_tgevgOJOKogIi6kK" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T13:27:44.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="778lUypZwXvOvPYuRsyn" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1246,7 +1246,7 @@
           <mxGeometry x="695" y="1290" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--359" value="esto pasa por que cada neurona contribuye con un dobles (bent) al resultado final" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="1400" width="105" height="82.5" as="geometry" />
+          <mxGeometry x="692.5" y="1385" width="105" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--361" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--219" target="kI7NMbDENjyl0bNxZZE--358">
           <mxGeometry relative="1" as="geometry" />
@@ -1255,16 +1255,16 @@
           <mxGeometry x="30" y="1180" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--363" value="una&amp;nbsp; Red Neuronal con &quot;l&quot; capas (layers) y &quot;n&quot; neuronas en cada capa es capaz de expresar &quot;n&quot; a la potencia &quot;l&quot; de segmentos lineales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1550" width="105" height="130" as="geometry" />
+          <mxGeometry x="695" y="1520" width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--366" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--364" target="kI7NMbDENjyl0bNxZZE--365">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--364" value="la razón por la que funcionan las redes neuronales es por que encajan en los datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="1754" width="105" height="100" as="geometry" />
+          <mxGeometry x="692.5" y="1700" width="105" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--365" value="no porque sea un modelo exacto del cerebro humano que es capaz de aprender y razonar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="1890" width="105" height="90" as="geometry" />
+          <mxGeometry x="692.5" y="1850" width="105" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--367" value="El resultado es la coordenada &quot;x&quot; para la función de activación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870.75" y="990" width="135.5" height="50" as="geometry" />
@@ -1337,7 +1337,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--393" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="880" y="1670" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--394" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--394" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="1482.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--395" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="kI7NMbDENjyl0bNxZZE--392" target="kI7NMbDENjyl0bNxZZE--394" parent="1">
@@ -1346,7 +1346,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--396" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="kI7NMbDENjyl0bNxZZE--393" target="kI7NMbDENjyl0bNxZZE--394" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--397" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--397" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="1176.25" y="1670" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--398" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="kI7NMbDENjyl0bNxZZE--392" target="kI7NMbDENjyl0bNxZZE--397" parent="1">
@@ -1402,7 +1402,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--427" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--411" target="kI7NMbDENjyl0bNxZZE--394">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--411" value="f(m)=max (0, m) = res1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--411" value="f(m)=max (0, m) = res1" style="text;html=1;strokeColor=#FF0080;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1105.3100000000002" y="1426.25" width="153.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--426" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--412" target="kI7NMbDENjyl0bNxZZE--397">
@@ -1411,7 +1411,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--441" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--412" target="kI7NMbDENjyl0bNxZZE--440">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--412" value="f(n)=max (0, n) = res2" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--412" value="f(n)=max (0, n) = res2" style="text;html=1;strokeColor=#FF0080;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1124.0600000000002" y="1740" width="134.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--417" value="(&lt;b&gt;input2&lt;/b&gt;)*w4 = r4" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
@@ -1591,7 +1591,7 @@
           <mxGeometry x="1025.5" y="2120" width="186.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--487" value="la suma de todas las salidas&amp;nbsp; de SoftMax es 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="1088.62" y="2210" width="141.38" height="40" as="geometry" />
+          <mxGeometry x="1099" y="2210" width="141.38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--501" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--489" target="kI7NMbDENjyl0bNxZZE--499">
           <mxGeometry relative="1" as="geometry" />
@@ -1616,6 +1616,105 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--500" value="con diferentes valores podemos obtener diferentes probabilidades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="1495.75" y="2255" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--508" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--503" target="kI7NMbDENjyl0bNxZZE--507">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--512" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--503" target="kI7NMbDENjyl0bNxZZE--511">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--524" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--503" target="kI7NMbDENjyl0bNxZZE--523">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--503" value="&lt;b&gt;CROSS ENTROPY&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="1960" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--520" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--504" target="kI7NMbDENjyl0bNxZZE--503">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--504" value="&lt;i&gt;basado en el canal de youtube: StatQuest with Josh Starmer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="1870" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--506" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--505" target="kI7NMbDENjyl0bNxZZE--503">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--505" value="Como las salidas de SoftMax van entre 0 y 1, se utiliza generalmente Cross Entropy para determinar cuan bien la red neuronal se ajusta a los datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="1870" width="237.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--510" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--507" target="kI7NMbDENjyl0bNxZZE--509">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--507" value="puede sonar complicado, pero cuando se lo usa en redes neuronales es bastante simple" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="1945" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--515" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--509" target="kI7NMbDENjyl0bNxZZE--511">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--509" value="Es simple por que las NN solo necesitan la forma simplificada de la ecuación general" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="1940" width="142.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--517" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--511" target="kI7NMbDENjyl0bNxZZE--516">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--511" value="cross entropy (valor) = -log (valor)" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="35" y="2060" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--514" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--513" target="kI7NMbDENjyl0bNxZZE--511">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--513" value="valor = la salida de SoftMax = la probabilidad pronosticada&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="15" y="2110" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--519" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--516" target="kI7NMbDENjyl0bNxZZE--518">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--516" value="Se calcula el cross Entropy para cada entrada de datos. y al final se suma estos valores que sería el &lt;b&gt;error total&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="2050" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--518" value="Entones podemos usar &lt;b&gt;backpropagation&lt;/b&gt; para ajustar los pesos y los sesgos&amp;nbsp; y así minimizar el error total" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2030" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--526" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--521" target="kI7NMbDENjyl0bNxZZE--522">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--521" value="Aquí surge una pregunta, si ya tenemos el valor pronosticado y sabemos el valor real, &lt;b&gt;por que no simplemente aplicamos la Suma de cuadrados residuales (SSR) en lugar de Cross Entropy???&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="2150" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--527" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--522" target="kI7NMbDENjyl0bNxZZE--525">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--522" value="Lo primero es recordar que SoftMax solo devuelve valores entre 0 y 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="2120" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--523" value="es una función" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="2020" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--529" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--525" target="kI7NMbDENjyl0bNxZZE--528">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--525" value="Cuando usamos cross Entropy, mientras la prdicción se vuelve cada ves peor (es decir más cerca del 0) la &lt;b&gt;perdida (loss)&lt;/b&gt; se vuelve cada vez más grande" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="2180" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--535" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--528" target="kI7NMbDENjyl0bNxZZE--530">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--528" value="En contraste, si ponemos estos valores entre 0 y 1 al SSR, el cambio en la pérdida (loss) no es tan grande como de la cross Entropy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="2140" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--536" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--530" target="kI7NMbDENjyl0bNxZZE--531">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--530" value="Recordemos que el tamaño del paso (step size) depende en parte en la derivada de la Cross entropy o de la SSR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2255" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--537" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--531" target="kI7NMbDENjyl0bNxZZE--532">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--531" value="La derivada (o la pendiente de la linea tangente) de Cross Entropy para una mala predicción será relativamente grande comparado con la derivada de Cuadrados Residuales (Squared Residual) de la misma mala predicción&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="2260" width="267.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--532" value="Por lo tanto, cuando la NN realiza una mala predicción, Cross Entropy nos ayudará a tomar relativemente un paso grande (large stpe) hacia una mejor predicción porque la pendiente de la linea tangente será relativamente grande." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="2235" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

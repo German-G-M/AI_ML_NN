@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T00:46:31.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NHzt86W4p4crARVM_vPp" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T00:47:06.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ERem-6lOdncAMiZGv7Pu" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1597" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -592,7 +592,7 @@
           <mxGeometry x="1473" y="670" width="123" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--356" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="1190" width="667.5" height="550" as="geometry" />
+          <mxGeometry x="10" y="1190" width="667.5" height="550" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--202" value="&lt;b&gt;suma de funciones&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kI7NMbDENjyl0bNxZZE--356">
           <mxGeometry x="335" width="60" height="30" as="geometry" />

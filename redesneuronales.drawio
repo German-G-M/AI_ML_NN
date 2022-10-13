@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T00:24:58.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="exRPBshtOonViAQBTaMY" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T00:29:51.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="O-Yd5yCf7WgqVr5-BIFn" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -591,10 +591,13 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--200" value="si w3 es negativo se invierte la linea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1473" y="670" width="123" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--202" value="&lt;b&gt;suma de funciones&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1200" width="60" height="30" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--275" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--202" target="kI7NMbDENjyl0bNxZZE--274">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--206" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--202" value="&lt;b&gt;suma de funciones&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--206" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;opacity=70;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="1300" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--207" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--206">
@@ -612,7 +615,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--261" value="(-6,2.4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kI7NMbDENjyl0bNxZZE--206">
           <mxGeometry x="-30" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--209" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--209" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;opacity=70;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="1460" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--210" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--209">
@@ -639,7 +642,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--260" value="(-3,1.9)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kI7NMbDENjyl0bNxZZE--209">
           <mxGeometry x="100" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--212" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--212" value="" style="group;glass=0;fillColor=#f5f5f5;strokeColor=none;fillStyle=solid;shadow=0;fontColor=#333333;opacity=70;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="1620" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--213" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="kI7NMbDENjyl0bNxZZE--212">
@@ -809,6 +812,9 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--273" value="(0,1.9)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--274" value="de 2 neuronas: n1 y n2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1190" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

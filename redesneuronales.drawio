@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T22:13:38.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4lOvbdK50BUvYfltTzdl" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:17:00.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fm3zXJ5xmCZGz39s5wKc" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1221" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1725,8 +1725,8 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--544" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--540" target="kI7NMbDENjyl0bNxZZE--543">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--540" value="Redes Neuronales convolucionales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="105" width="60" height="40" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--540" value="&lt;b&gt;Redes Neuronales convolucionales&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="105" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--541" value="las imágenes son solo un grupo de pixeles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="2050" y="90" width="80" height="60" as="geometry" />
@@ -3238,6 +3238,69 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1057" value="Las CNNs estan basadas en filtros, conocidos como convoluciones, aplicando una función de activación a las salidas del filtro, pooling la salida de la función de activación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="2228" y="2202" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1061" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1058" target="kI7NMbDENjyl0bNxZZE--1059">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1058" value="&lt;b&gt;Redes Neuronales Recurrentes&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="92.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1062" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1059" target="kI7NMbDENjyl0bNxZZE--1060">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1059" value="&lt;b&gt;Redes de memoria a corto y largo plazo&lt;br&gt;(LSTM: Long Short Term Memory Networks)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="60" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1060" value="&lt;b&gt;Transformadores&lt;br&gt;(Transformers)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;opacity=70;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="44" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1063" value="siguiente nivel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1065" value="siguiente nivel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1067" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1066" target="kI7NMbDENjyl0bNxZZE--1058">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1066" value="RNN básica o vanilla" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="208.5" width="90" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1069" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1068" target="kI7NMbDENjyl0bNxZZE--1058">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1068" value="cada busqueda que valga la pena toma pasos, y este es el primer paso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="200" width="140" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1070" value="&lt;i&gt;basado en el canal de youtube: StatQuest with Josh Starmer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2505" y="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1076" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1071" target="kI7NMbDENjyl0bNxZZE--1072">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1071" value="Construyamos un NN que prediga el precio de las acciones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="285" width="140" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1077" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1072" target="kI7NMbDENjyl0bNxZZE--1073">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1072" value="Si queremos usar una NN para predecir el precio de las acciones, necesitamos una NN que funcione con diferentes cantidades de datos secuenciales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="285" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1075" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1073" target="kI7NMbDENjyl0bNxZZE--1074">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1079" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1073" target="kI7NMbDENjyl0bNxZZE--1078">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1073" value="Necesitamos que la &lt;b&gt;NN sea flexible&lt;/b&gt; en cuanto a la cantidad de datos secuenciales que usamos para hacer una predicción&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="285" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1074" value="Podríamos tener más datos para una empresa y pocos datos para otra empresa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="208.5" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1078" value="Esto es una gran diferencia comparada con otras NN que hemos visto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="322" width="150" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

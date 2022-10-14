@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T20:07:52.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9239-2q2P9O7IJZVtWCR" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T21:41:23.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3tNR6M2Mh2vPd1Kdp8YE" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
-    <mxGraphModel dx="5190" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4039,6 +4039,30 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1317" value="Para solucionar este problema del gradiente que se desvanece o explota, u&lt;b&gt;tilizamos NN LSTM (Long Short Term Memory Network&lt;/b&gt;)&amp;nbsp;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="2685" y="1940" width="213.12" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1324" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1320" target="kI7NMbDENjyl0bNxZZE--1322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1325" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.351;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1320" target="kI7NMbDENjyl0bNxZZE--1323">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1320" value="&lt;b&gt;Tensores para redes neuronales&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="50" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1321" value="&lt;i&gt;basado en el canal de youtube: StatQuest with Josh Starmer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3930" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1322" value="la matemática y la física lo definen de una manera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="143.5" width="100" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1327" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1323" target="kI7NMbDENjyl0bNxZZE--1326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1323" value="y la comunidad de aprendizaje automático lo define de otra manera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="121.75" width="100" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1326" value="Dentro&amp;nbsp; del ML, los Tensores son utilizados en conjunción con las Redes Neuronales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3710" y="43.37" width="120" height="63.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

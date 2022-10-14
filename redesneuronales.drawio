@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T17:32:25.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qgUOz9tx2jOqUoUKDNBe" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T20:07:52.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9239-2q2P9O7IJZVtWCR" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
-    <mxGraphModel dx="1093" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5190" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3723,7 +3723,7 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--1200" value="Nunca se aumentará el numero de pesos y sesgos que tenemos que entrenar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2492.5" y="1112.5" width="245" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--1201" value="Estas RNN básicas son muy geniales, pero &lt;b&gt;no se las usa con frecuencia&lt;/b&gt;." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1201" value="Estas RNN básicas son muy geniales, pero &lt;b&gt;no se las usa con frecuencia&lt;/b&gt;." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2492.5" y="1200" width="245" height="35" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1204" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1202" target="kI7NMbDENjyl0bNxZZE--1203">
@@ -3733,7 +3733,7 @@
           <mxGeometry x="2480" y="1252.5" width="250" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1203" value="Este problema se llama: El problema del &lt;b&gt;gradiente que se desvanece o explota (Vanishing/Exploding Gradient Problem)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2492.5" y="1330" width="250" height="57.5" as="geometry" />
+          <mxGeometry x="2475" y="1327.5" width="250" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1298" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2960" y="1177.42" width="268.27568627451046" height="502.5799999999999" as="geometry" />
@@ -3991,7 +3991,10 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--1308" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1302" target="kI7NMbDENjyl0bNxZZE--1307">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--1302" value="Por ejemplo si tenemos datos secuenciales de 50 días y nuestro W2=2&lt;br&gt;tendríamos&amp;nbsp;&lt;b&gt;2&lt;/b&gt;&lt;sup&gt;&lt;b&gt;50&lt;/b&gt;&amp;nbsp;&lt;/sup&gt;&lt;br&gt;y este es un número muy grande!!&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1314" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1302" target="kI7NMbDENjyl0bNxZZE--1313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1302" value="Por ejemplo si tenemos datos secuenciales de 50 días y nuestro &lt;b&gt;W2=2&lt;/b&gt;&lt;br&gt;tendríamos&amp;nbsp;&lt;b&gt;2&lt;/b&gt;&lt;sup&gt;&lt;b&gt;50&lt;/b&gt;&amp;nbsp;&lt;/sup&gt;&lt;br&gt;y este es un número muy grande!!&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2510.63" y="1560" width="223.75" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1306" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1305" target="kI7NMbDENjyl0bNxZZE--1302">
@@ -4000,11 +4003,42 @@
         <mxCell id="kI7NMbDENjyl0bNxZZE--1305" value="&lt;sup&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Este enorme numero es la razón por que lo llaman el gradiente que explota&lt;/font&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2800" y="1555" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--1307" value="&lt;sup&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Para evitar el gradiente que explota, podríamos&amp;nbsp;pensar en utilizar valores&amp;nbsp;w &amp;lt; 1&lt;br&gt;&amp;nbsp;pero &lt;b&gt;esto nos lleva al problema del gradiente que se desvanece&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2510.63" y="1685" width="242.5" height="85" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1310" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1307" target="kI7NMbDENjyl0bNxZZE--1309">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kI7NMbDENjyl0bNxZZE--1309" value="por ejemplo si tenemos 50 días de datos y nuestro w=0.5 tendríamos &lt;b&gt;0.5&lt;sup&gt;50&lt;/sup&gt;&lt;/b&gt; y este es un numero muy pequeño, cercano a 0." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2783.75" y="1705.5" width="213.12" height="57.5" as="geometry" />
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1307" value="&lt;sup&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Para evitar el gradiente que explota, podríamos&amp;nbsp;pensar en utilizar valores&amp;nbsp;w &amp;lt; 1&lt;br&gt;&amp;nbsp;pero &lt;b&gt;esto nos lleva al problema del gradiente que se desvanece&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2767.5" y="1700" width="242.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1316" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1309" target="kI7NMbDENjyl0bNxZZE--1315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1309" value="por ejemplo si tenemos 50 días de datos y nuestro &lt;b&gt;w=0.5&lt;/b&gt; tendríamos &lt;b&gt;0.5&lt;sup&gt;50&lt;/sup&gt;&lt;/b&gt; y este es un numero muy pequeño, cercano a 0." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3088.44" y="1712.5" width="213.12" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1312" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1311" target="kI7NMbDENjyl0bNxZZE--1203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1311" value="Cuando queremos optimizar una NN con Backpropagación, &lt;b&gt;primero se encuentran las derivadas (o gradientes&lt;/b&gt;) para cada parámetro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2783.75" y="1280" width="136.25" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1313" value="Cuando el gradiente contiene un numero muy grande terminaremos tomando relativamente &lt;b&gt;pasos grandes&lt;/b&gt;. Y en lugar de encontrar el parámetro optimo, simplemente rebotaremos mucho" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="1735" width="213.12" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1315" value="Cuando queremos optimizar un parámetro, en lugar de tomar pasos que son demasiado grandes, tomamos p&lt;b&gt;asos que son demasiado pequeños&lt;/b&gt;. y como resultado terminamos alcanzando el número de pasos máximo permitidos a tomar antes de encontrar el valor optimo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3055" y="1825" width="213.12" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1318" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1317">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2670" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1319" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1317">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3040" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1317" value="Para solucionar este problema del gradiente que se desvanece o explota, u&lt;b&gt;tilizamos NN LSTM (Long Short Term Memory Network&lt;/b&gt;)&amp;nbsp;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="1940" width="213.12" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

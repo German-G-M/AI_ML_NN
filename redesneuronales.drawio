@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T21:41:23.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3tNR6M2Mh2vPd1Kdp8YE" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T01:57:25.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bf9fcoYGtxYm2smd_2KE" version="20.4.0" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
-    <mxGraphModel dx="716" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4063,6 +4063,27 @@
         </mxCell>
         <mxCell id="kI7NMbDENjyl0bNxZZE--1326" value="Dentro&amp;nbsp; del ML, los Tensores son utilizados en conjunción con las Redes Neuronales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3710" y="43.37" width="120" height="63.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1332" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1328" target="kI7NMbDENjyl0bNxZZE--1331">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1328" value="Para una &lt;b&gt;NN de un solo dato&lt;/b&gt; de entrada y un solo dato de salida (que sería una NN muy simple) y datos de entrenamiento super simple de 3 puntos de datos, se necesita &lt;b&gt;mucha matemática&lt;/b&gt; para que la NN ajuste la curva a los datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="225" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1333" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1329" target="kI7NMbDENjyl0bNxZZE--1331">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1329" value="Para la &lt;b&gt;NN de 2 entradas&lt;/b&gt; y 3 salidas que utilizaba 2 datos de una flor se hizo &lt;b&gt;mucha matemática&lt;/b&gt; para predecir a que clase de las 3 pertenecía un par de entradas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="213" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1334" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="kI7NMbDENjyl0bNxZZE--1330" target="kI7NMbDENjyl0bNxZZE--1331">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1330" value="Para la &lt;b&gt;CNN de clasificación&lt;/b&gt; de imágenes de 6X6 pixeles (36pixeles de entrada en total) también necesitamos hacer &lt;b&gt;mucha matemática&lt;/b&gt; para realizar las predicciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="213" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kI7NMbDENjyl0bNxZZE--1331" value="A pesar de que estas redes neuronales necesitan de mucha matemática, &lt;b&gt;son relativamente simples comparados a las redes neuronales que se utilizan en la práctica&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="440" width="190" height="106.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

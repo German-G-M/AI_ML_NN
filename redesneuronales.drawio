@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T22:23:18.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1E5f-e91EaM8FNBUprCk" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T23:43:35.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0F90mKJPZjCkmRdBVv05" version="20.4.1" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4396,6 +4396,135 @@
         </mxCell>
         <mxCell id="ooetto4wWZ2LWYalyiaR-1" value="aparecen en 2017 en el paper. attention is all you need" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3105" y="80.88" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-4" value="LSTM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="1205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-5" value="TRANSFORMADORES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="1270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-7" value="&lt;i&gt;basado en el canal de youtube: Dot CSV&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="15" width="270" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-9" value="&lt;i&gt;Los mejores avances en IA del 2017&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="34.370000000000005" width="240" height="18.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-10" value="LipNet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4489" y="68" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-11" target="ooetto4wWZ2LWYalyiaR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-11" value="la IA aprendió a entender nuestras palabras, simplemente leyendo nuestros labios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="70" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-12" value="La IA aprendió a entender nuestro lenguaje corporal a a partir simplemente de un video tomado con una cámara convencional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="124" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-14" target="ooetto4wWZ2LWYalyiaR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-14" value="La IA aprendió a ver y comprender mejor el mundo que estaba delante de sus ojos. Mucho más rápido y mucho más eficiente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="162.13" width="310" height="57.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-15" value="visión por computadora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4620" y="121.13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-17" target="ooetto4wWZ2LWYalyiaR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-17" target="ooetto4wWZ2LWYalyiaR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-17" target="ooetto4wWZ2LWYalyiaR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-17" target="ooetto4wWZ2LWYalyiaR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-17" target="ooetto4wWZ2LWYalyiaR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-17" value="Para 2017 la tecnología no solo a aprendido a percibir mejor la información, sino que también a aprendido a generarla" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="235" width="310" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-18" value="A generar voz humana mucho más realista" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="170" width="290" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-19" value="A generar código fuente de interfaz de usuario a partir de una imagen de su prototipo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4640" y="195" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-22" value="A partir de garabatos generar bocetos. A partir de bocetos generar imágenes. A partir de imágenes a generar ediciones como nunca antes (Editar Paris, para que parezca venecia. o editar el invierno para que parezca primavera, o pasar del día a la noche)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4620" y="230.5" width="330" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-24" value="capaces de crear caras de personas que nunca existieron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4620" y="307.75" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-25" value="suplantar la identidad de caras muy conocidas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4620" y="335" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-29" value="&lt;i&gt;Las redes neuronales ¿aprenden o memorizan? overfitting y underfitting&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="368.37" width="240" height="31.63" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-30" target="ooetto4wWZ2LWYalyiaR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-30" value="Que el modelo sea capaz de generalizar, es el componente más perseguida del machine learning.&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="457.5" width="280" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-31" value="Lo que se busca es que a partir de los ejemplos (datos para el entrenamiento) el &lt;b&gt;modelo (la función)&amp;nbsp;&lt;/b&gt;sea capaz de hacer predicciones y clasificar imágenes nuevas, nunca antes vistas durante su entrenamiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4495" y="466.63" width="310" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-33" target="ooetto4wWZ2LWYalyiaR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-33" value="¿Un modelo bien ajustado siempre va a generalizar bien?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="535" width="320" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-35" target="ooetto4wWZ2LWYalyiaR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-35" value="No, exactamente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="554" width="100" height="30.88" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-36" value="Por ejemplo una recta no es capaz de adaptarse a una curva de datos. Esto hará que nuestro modelo sea incapaz de realizar buenas predicciones. Esto se llama &lt;b&gt;subajeste (underfitting&lt;/b&gt;)&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4652" y="551.62" width="268" height="68.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-39" target="ooetto4wWZ2LWYalyiaR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-39" value="Con un modelo de regresión polinomial, podríamos encontrar una curva que se ajuste a nuestros datos.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4664" y="657" width="268" height="48.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-40" target="ooetto4wWZ2LWYalyiaR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-40" value="Esto parece indicar que mientras&amp;nbsp; más flexibilidad le damos a la curva (más grados en el polinomio) mejor se ajusta el modelo y menor error se tiene.&lt;br&gt;&lt;br&gt;&amp;nbsp; Pero y si elevamos a un grado mayor (darle mayor flexibilidad a la curva)??&lt;br&gt;&lt;br&gt;La curva se ajusta perfectamente a los datos de entrada, pero sigue otros caminos que a simple vista no pertenecerían al patrón real. y lo que hace al final es modelar el ruido de nuestros datos. Tienen un error mayor. El modelo generaliza peor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4153" y="610" width="427" height="150.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-41" target="ooetto4wWZ2LWYalyiaR-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-41" value="Este problema se conoce como &lt;b&gt;Sobreajuste (overfitting&lt;/b&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4212" y="792" width="268" height="48.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-44" target="ooetto4wWZ2LWYalyiaR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-44" value="Esto es el exceso de flexibilidad del modelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4570" y="795.81" width="268" height="34.19" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-46" target="ooetto4wWZ2LWYalyiaR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-46" value="Lo que hace el overfitting en el modelo es que este se especializa muy bien en resolver los casos para los cuales ha sido entrenado. casi como que memorizara la solución" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4151" y="885.41" width="328" height="54.19" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-48" value="La clave es encontrar aquel modelo que esté en el punto intermedio. Es decir, que sea capaz de aprender en el entrenamiento y que también sea capaz de generalizar su conocimiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4510" y="870" width="328" height="54.19" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-50" value="Cómo identificamos el overfitting?? o más importante aún, cómo lo solucionamos??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4510" y="972.9" width="328" height="54.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

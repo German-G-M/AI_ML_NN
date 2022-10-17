@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T15:53:35.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oIRWMoLoWbmo3Owye_BL" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T16:27:21.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QqYkG-5HUQ6zoIKfhaaU" version="20.4.1" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
-    <mxGraphModel dx="769" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4747,8 +4747,14 @@
         <mxCell id="n2Q0j8rQOov42kzwAtJn-75" value="gate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
           <mxGeometry x="451" y="109" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ooetto4wWZ2LWYalyiaR-5" value="TRANSFORMADORES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4185" y="1250" width="130" height="30" as="geometry" />
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-5" target="n2Q0j8rQOov42kzwAtJn-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-5" target="n2Q0j8rQOov42kzwAtJn-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooetto4wWZ2LWYalyiaR-5" value="TRANSFORMADORES" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3350" y="2140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n2Q0j8rQOov42kzwAtJn-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-52" target="n2Q0j8rQOov42kzwAtJn-54">
           <mxGeometry relative="1" as="geometry" />
@@ -4818,7 +4824,7 @@
           <mxGeometry x="3337.5" y="1871.5" width="205" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="n2Q0j8rQOov42kzwAtJn-69" value="estos parámetros de las compuertas son los pesos y sesgos, lo que significa que el comportamiento depende de las entradas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="2035" width="205" height="73.5" as="geometry" />
+          <mxGeometry x="3340" y="2006.5" width="205" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="n2Q0j8rQOov42kzwAtJn-72" value="De manera similar, hay &lt;b&gt;compuertas para controlar cuanta de la información actual será guardada&lt;/b&gt; en el estado y cuanto de la salida es determinada por el calculo actual versus la información guardada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3615" y="2010" width="215" height="93.5" as="geometry" />
@@ -4831,6 +4837,33 @@
         </mxCell>
         <mxCell id="n2Q0j8rQOov42kzwAtJn-80" value="aparecen en 1997 en el paper: long short-term memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2762.5" y="19.999999999999993" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-81" target="n2Q0j8rQOov42kzwAtJn-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-81" value="Ventajas de los transformadores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3558.5" y="2145" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-82" value="&lt;ul&gt;&lt;li&gt;Fácil de entrenar&lt;/li&gt;&lt;li&gt;más eficiente&lt;/li&gt;&lt;li&gt;funciona el transfer learning&lt;/li&gt;&lt;li&gt;puede ser entrenado en textos no supervisados&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="3848.75" y="2082.12" width="270" height="97.88" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-85" target="n2Q0j8rQOov42kzwAtJn-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-85" value="las redes LSTM todavía son buenas cuando:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="2230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-86" value="&lt;ul&gt;&lt;li&gt;el tamaño de la secuencia es muy grande o infinita&lt;/li&gt;&lt;li&gt;ejemplo: control en tiempo real para robots o similares (no se puede tener la secuencia entera)&lt;/li&gt;&lt;li&gt;no se puede pre entrenar en cuerpos grandes (large corpus)&lt;/li&gt;&lt;li&gt;LSTMs&amp;nbsp; parece que sobrepasa (outperform) a los transformadores cuando el tamaño del dataset es realtivamente pequeño&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="3700" y="2197.5" width="424.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-89" target="ooetto4wWZ2LWYalyiaR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-89" value="&lt;i&gt;basado en el canal de youtube: seattle Applied Deep Learning&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3325" y="2225" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-90" value="&lt;i&gt;LSTM is dead. Long Live Transformers! (2019)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="2270" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

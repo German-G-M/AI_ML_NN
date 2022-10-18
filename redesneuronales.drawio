@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T16:27:21.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QqYkG-5HUQ6zoIKfhaaU" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T20:32:08.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="J5I1yc--YHblAM7kftc4" version="20.4.1" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1298" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4397,10 +4397,10 @@
         <mxCell id="ooetto4wWZ2LWYalyiaR-1" value="aparecen en 2017 en el paper. attention is all you need" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3105" y="80.88" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-4" target="n2Q0j8rQOov42kzwAtJn-6">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ooetto4wWZ2LWYalyiaR-4" target="n2Q0j8rQOov42kzwAtJn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-4" target="n2Q0j8rQOov42kzwAtJn-10">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ooetto4wWZ2LWYalyiaR-4" target="n2Q0j8rQOov42kzwAtJn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ooetto4wWZ2LWYalyiaR-4" value="LSTM Networks" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -4646,34 +4646,34 @@
         <mxCell id="ooetto4wWZ2LWYalyiaR-92" value="La parte más complicada no es implementar una red neuronal y entrenarla, sino saber aplicar una metodología correcta en el tratamiento de los datos para que las conclusiones no sean equivocadas" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="4558" y="865.28" width="210" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-6" value="&lt;ul&gt;&lt;li&gt;Es un tipo especial de RNN&lt;/li&gt;&lt;li&gt;Puede aprender patrones a largo plazo&lt;/li&gt;&lt;li&gt;Detecta patrones con 100 pasos&lt;/li&gt;&lt;li&gt;Se maneja con 100s/1000s de pasos&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-6" value="&lt;ul&gt;&lt;li&gt;Es un tipo especial de RNN&lt;/li&gt;&lt;li&gt;Puede aprender patrones a largo plazo&lt;/li&gt;&lt;li&gt;Detecta patrones con 100 pasos&lt;/li&gt;&lt;li&gt;Se maneja con 100s/1000s de pasos&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="3312.5" y="1380" width="215" height="117.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-8" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Las RNNs no tienen memoria alargo plazo&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Las RNN no pueden usar información de un pasado distante&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Las RNN no pueden aprender patrones con grandes dependencias&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-8" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Las RNNs no tienen memoria alargo plazo&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Las RNN no pueden usar información de un pasado distante&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Las RNN no pueden aprender patrones con grandes dependencias&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="3510" y="1180" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-10" target="n2Q0j8rQOov42kzwAtJn-52">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-10" target="n2Q0j8rQOov42kzwAtJn-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-10" value="Son diseñados para aplicaciones donde la entrada es una secuencia ordenada donde la información más temprana en la secuencia puede que sea importante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-10" value="Son diseñados para aplicaciones donde la entrada es una secuencia ordenada donde la información más temprana en la secuencia puede que sea importante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3533.5" y="1327.5" width="155" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-12" value="" style="group;" vertex="1" connectable="0" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-12" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3339" y="1551" width="765" height="202.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillStyle=solid;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillStyle=solid;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="20" y="42.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillStyle=solid;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillStyle=solid;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="705" y="41" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-28" target="n2Q0j8rQOov42kzwAtJn-14">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-28" target="n2Q0j8rQOov42kzwAtJn-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-16" value="ReLU&lt;br&gt;f(x)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillStyle=solid;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-16" value="ReLU&lt;br&gt;f(x)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;glass=0;fillStyle=solid;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="372.5" y="8.5" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-16" target="n2Q0j8rQOov42kzwAtJn-23">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-16" target="n2Q0j8rQOov42kzwAtJn-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="122.5" as="sourcePoint" />
             <mxPoint x="230" y="72.5" as="targetPoint" />
@@ -4684,94 +4684,94 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-18" value="*w2" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-18" value="*w2" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="395" y="154.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-19" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-19" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-20" value="output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-20" value="output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="700" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-21" value="*w1" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-21" value="*w1" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="81" y="46" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-13" target="n2Q0j8rQOov42kzwAtJn-21">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-13" target="n2Q0j8rQOov42kzwAtJn-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="62.5" as="sourcePoint" />
             <mxPoint x="295.0017145673619" y="64.62964550525362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-23" value="sum" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#333333;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-23" value="sum" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#333333;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="181" y="47.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-21" target="n2Q0j8rQOov42kzwAtJn-23">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-21" target="n2Q0j8rQOov42kzwAtJn-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="165" y="62.5" as="sourcePoint" />
             <mxPoint x="295.00385746660913" y="64.44449802036956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-25" value="+ b1" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-25" value="+ b1" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="271" y="51.5" width="40" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-25" target="n2Q0j8rQOov42kzwAtJn-16">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-25" target="n2Q0j8rQOov42kzwAtJn-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;startArrow=none;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-23" target="n2Q0j8rQOov42kzwAtJn-25">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;startArrow=none;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-23" target="n2Q0j8rQOov42kzwAtJn-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="62.5" as="sourcePoint" />
             <mxPoint x="295.010095911347" y="64.10135046991809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-28" value="+ b2" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-28" value="+ b2" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="631" y="51.25" width="40" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;startArrow=none;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-30" target="n2Q0j8rQOov42kzwAtJn-28">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;startArrow=none;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-30" target="n2Q0j8rQOov42kzwAtJn-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375.00000000002547" y="65" as="sourcePoint" />
             <mxPoint x="665" y="58.91935483870975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-30" value="*w3" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-30" value="*w3" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="561" y="47.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-16" target="n2Q0j8rQOov42kzwAtJn-30">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;endArrow=none;endFill=0;elbow=vertical;" parent="n2Q0j8rQOov42kzwAtJn-12" source="n2Q0j8rQOov42kzwAtJn-16" target="n2Q0j8rQOov42kzwAtJn-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375.00000000002547" y="65" as="sourcePoint" />
             <mxPoint x="600" y="62.70408163265324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-74" value="gate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-74" value="gate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="367" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-75" value="gate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="n2Q0j8rQOov42kzwAtJn-12">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-75" value="gate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="n2Q0j8rQOov42kzwAtJn-12" vertex="1">
           <mxGeometry x="451" y="109" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-5" target="n2Q0j8rQOov42kzwAtJn-81">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ooetto4wWZ2LWYalyiaR-5" target="n2Q0j8rQOov42kzwAtJn-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ooetto4wWZ2LWYalyiaR-5" target="n2Q0j8rQOov42kzwAtJn-85">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ooetto4wWZ2LWYalyiaR-5" target="n2Q0j8rQOov42kzwAtJn-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ooetto4wWZ2LWYalyiaR-5" value="TRANSFORMADORES" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3350" y="2140" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-52" target="n2Q0j8rQOov42kzwAtJn-54">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-52" target="n2Q0j8rQOov42kzwAtJn-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-52" value="En una red LSTM&amp;nbsp; los nodos son Recurrentes, pero también tienen un estado interno. El nodo utiliza un estado interno como un espacio de memoria de trabajo, lo que significa que la información puede ser almacenada y recuperada a lo largo de muchos pasos en el tiempo." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-52" value="En una red LSTM&amp;nbsp; los nodos son Recurrentes, pero también tienen un estado interno. El nodo utiliza un estado interno como un espacio de memoria de trabajo, lo que significa que la información puede ser almacenada y recuperada a lo largo de muchos pasos en el tiempo." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3730" y="1323.75" width="180" height="132.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-54" target="n2Q0j8rQOov42kzwAtJn-56">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-54" target="n2Q0j8rQOov42kzwAtJn-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-54" value="El valor de entrada&amp;nbsp; previo a la salida y el estado interno son todos utilizados en los cálculos de los nodos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-54" value="El valor de entrada&amp;nbsp; previo a la salida y el estado interno son todos utilizados en los cálculos de los nodos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3938.75" y="1232.12" width="180" height="88.25" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-56" value="Los resultados de los cálculos son utilizados no solo para proveer el valor de la salida, sino también para actualizar el estado." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-56" value="Los resultados de los cálculos son utilizados no solo para proveer el valor de la salida, sino también para actualizar el estado." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3946.25" y="1365" width="150" height="88.25" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-55">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3710" y="1590" as="targetPoint" />
             <Array as="points">
@@ -4779,10 +4779,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-55" value="estado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-55" value="estado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3722" y="1500" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-16" target="n2Q0j8rQOov42kzwAtJn-55">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-16" target="n2Q0j8rQOov42kzwAtJn-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3840" y="1550" as="targetPoint" />
             <Array as="points">
@@ -4790,80 +4790,335 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-61" value="&lt;i&gt;basado en el canal de youtube: MATLAB&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-61" value="&lt;i&gt;basado en el canal de youtube: MATLAB&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3325" y="1180" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-62" value="&lt;i&gt;Deep Learning: Long Short-Term Memory Networks (2018)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-62" value="&lt;i&gt;Deep Learning: Long Short-Term Memory Networks (2018)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3325" y="1215" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-66" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-63" target="n2Q0j8rQOov42kzwAtJn-64">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-66" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-63" target="n2Q0j8rQOov42kzwAtJn-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-63" value="como cualquier NN las redes LSTM tienen parámetros que determinan cómo son usados las entradas en los cálculos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-63" value="como cualquier NN las redes LSTM tienen parámetros que determinan cómo son usados las entradas en los cálculos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3860" y="1743" width="205" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-64" target="n2Q0j8rQOov42kzwAtJn-65">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-64" target="n2Q0j8rQOov42kzwAtJn-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-64" value="como cualquier NN, los nodos de las redes LSTM tienen parámetros que determinan cómo son usados las entradas en los cálculos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-64" value="como cualquier NN, los nodos de las redes LSTM tienen parámetros que determinan cómo son usados las entradas en los cálculos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3860" y="1856.5" width="205" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-65" target="n2Q0j8rQOov42kzwAtJn-68">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-65" target="n2Q0j8rQOov42kzwAtJn-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-65" target="n2Q0j8rQOov42kzwAtJn-72">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-65" target="n2Q0j8rQOov42kzwAtJn-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-65" value="Pero, las LSTM también tienen parámetros conocidos como &lt;b&gt;compuertas (gate&lt;/b&gt;) que controlan el flujo de información dentro del nodo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-65" value="Pero, las LSTM también tienen parámetros conocidos como &lt;b&gt;compuertas (gate&lt;/b&gt;) que controlan el flujo de información dentro del nodo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3615" y="1906.5" width="205" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-68" target="n2Q0j8rQOov42kzwAtJn-69">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-68" target="n2Q0j8rQOov42kzwAtJn-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-68" value="En particular, para determinar &lt;b&gt;cuanto de la información del estado guardado es usado como una entrada&lt;/b&gt; para el cálculo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-68" value="En particular, para determinar &lt;b&gt;cuanto de la información del estado guardado es usado como una entrada&lt;/b&gt; para el cálculo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3337.5" y="1871.5" width="205" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-69" value="estos parámetros de las compuertas son los pesos y sesgos, lo que significa que el comportamiento depende de las entradas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-69" value="estos parámetros de las compuertas son los pesos y sesgos, lo que significa que el comportamiento depende de las entradas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3340" y="2006.5" width="205" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-72" value="De manera similar, hay &lt;b&gt;compuertas para controlar cuanta de la información actual será guardada&lt;/b&gt; en el estado y cuanto de la salida es determinada por el calculo actual versus la información guardada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-72" value="De manera similar, hay &lt;b&gt;compuertas para controlar cuanta de la información actual será guardada&lt;/b&gt; en el estado y cuanto de la salida es determinada por el calculo actual versus la información guardada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3615" y="2010" width="215" height="93.5" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-78" value="Los nodos LSTM son más complicados que los nodos de una RNN regular, pero esto los hace mejores al aprender las interdependencias complejas en las secuencias de los datos&amp;nbsp;&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-78" value="Los nodos LSTM son más complicados que los nodos de una RNN regular, pero esto los hace mejores al aprender las interdependencias complejas en las secuencias de los datos&amp;nbsp;&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="3350" y="1680" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-79" value="Al final, son solo nodos con una grana cantidad de parámetros. Y estos parámetros son aprendidos durante el entrenamiento como cualquier NN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-79" value="Al final, son solo nodos con una grana cantidad de parámetros. Y estos parámetros son aprendidos durante el entrenamiento como cualquier NN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3560" y="1736" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-80" value="aparecen en 1997 en el paper: long short-term memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-80" value="aparecen en 1997 en el paper: long short-term memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fillStyle=solid;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2762.5" y="19.999999999999993" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-81" target="n2Q0j8rQOov42kzwAtJn-82">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-81" target="n2Q0j8rQOov42kzwAtJn-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-81" value="Ventajas de los transformadores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-81" value="Ventajas de los transformadores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3558.5" y="2145" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-82" value="&lt;ul&gt;&lt;li&gt;Fácil de entrenar&lt;/li&gt;&lt;li&gt;más eficiente&lt;/li&gt;&lt;li&gt;funciona el transfer learning&lt;/li&gt;&lt;li&gt;puede ser entrenado en textos no supervisados&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-82" value="&lt;ul&gt;&lt;li&gt;Fácil de entrenar&lt;/li&gt;&lt;li&gt;más eficiente&lt;/li&gt;&lt;li&gt;funciona el transfer learning&lt;/li&gt;&lt;li&gt;puede ser entrenado en textos no supervisados&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="3848.75" y="2082.12" width="270" height="97.88" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-85" target="n2Q0j8rQOov42kzwAtJn-86">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n2Q0j8rQOov42kzwAtJn-85" target="n2Q0j8rQOov42kzwAtJn-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-85" value="las redes LSTM todavía son buenas cuando:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-85" value="las redes LSTM todavía son buenas cuando:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3550" y="2230" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-86" value="&lt;ul&gt;&lt;li&gt;el tamaño de la secuencia es muy grande o infinita&lt;/li&gt;&lt;li&gt;ejemplo: control en tiempo real para robots o similares (no se puede tener la secuencia entera)&lt;/li&gt;&lt;li&gt;no se puede pre entrenar en cuerpos grandes (large corpus)&lt;/li&gt;&lt;li&gt;LSTMs&amp;nbsp; parece que sobrepasa (outperform) a los transformadores cuando el tamaño del dataset es realtivamente pequeño&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-86" value="&lt;ul&gt;&lt;li&gt;el tamaño de la secuencia es muy grande o infinita&lt;/li&gt;&lt;li&gt;ejemplo: control en tiempo real para robots o similares (no se puede tener la secuencia entera)&lt;/li&gt;&lt;li&gt;no se puede pre entrenar en cuerpos grandes (large corpus)&lt;/li&gt;&lt;li&gt;LSTMs&amp;nbsp; parece que sobrepasa (outperform) a los transformadores cuando el tamaño del dataset es realtivamente pequeño&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="3700" y="2197.5" width="424.5" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="n2Q0j8rQOov42kzwAtJn-89" target="ooetto4wWZ2LWYalyiaR-5">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="n2Q0j8rQOov42kzwAtJn-89" target="ooetto4wWZ2LWYalyiaR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-89" value="&lt;i&gt;basado en el canal de youtube: seattle Applied Deep Learning&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-89" value="&lt;i&gt;basado en el canal de youtube: seattle Applied Deep Learning&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3325" y="2225" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2Q0j8rQOov42kzwAtJn-90" value="&lt;i&gt;LSTM is dead. Long Live Transformers! (2019)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n2Q0j8rQOov42kzwAtJn-90" value="&lt;i&gt;LSTM is dead. Long Live Transformers! (2019)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3330" y="2270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-1" value="&lt;b&gt;USE SU AUTORIDAD COMO LO HACE JEHOVÁ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="1190" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-2" target="G-lD20OurCT-So66_UTj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-2" value="&lt;b&gt;1 Reyes 22:19&lt;/b&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="1365" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.438;exitY=1.011;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4225" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-3" value="&quot;Jehová sentado en su trono .. ejercito de los cielos&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4174" y="1280" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-5" value="&lt;b&gt;Jehová tiene toda autoridad&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="1410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-6" target="G-lD20OurCT-So66_UTj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-6" value="Ancianos&amp;nbsp;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4226" y="2130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4350" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-7" value="Cabezas de familia" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4226" y="2185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-8" target="G-lD20OurCT-So66_UTj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-8" value="deben ser los primeros en imitar a jehová al usar su autoridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4346" y="2165" width="313" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-9" target="G-lD20OurCT-So66_UTj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-9" value="Efectos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4750" y="2172" width="66.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-10" value="congregación y familia feliz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4799" y="2230" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-11" target="G-lD20OurCT-So66_UTj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-11" target="G-lD20OurCT-So66_UTj-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-11" value="Profeta Micaya" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4388" y="1290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-12" target="G-lD20OurCT-So66_UTj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-12" value="Jehosafat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4590" y="1255.63" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-13" target="G-lD20OurCT-So66_UTj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-13" value="Acab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4610" y="1285.63" width="49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-15" value="Rey de israel (10 tribus)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="1285.63" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-16" value="Rey de&amp;nbsp; juda (tribu de judá)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4690.5" y="1236.88" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-20" value="1 REYES 21,22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4540" y="1190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-21" target="G-lD20OurCT-So66_UTj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-21" value="Rey de Siria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4819.75" y="1230" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-22" value="Ramot-Galaad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4822.5" y="1288.75" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-24" target="G-lD20OurCT-So66_UTj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-24" target="G-lD20OurCT-So66_UTj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-24" target="G-lD20OurCT-So66_UTj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-24" target="G-lD20OurCT-So66_UTj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-24" value="Quienes conforman este ejercito?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4346.25" y="1382.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-26" value="querubines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4545" y="1375" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-27" value="serafines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4545" y="1410" width="75" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-28" value="ángeles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4545" y="1442.5" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-29" target="G-lD20OurCT-So66_UTj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-29" value="Jehová de los ejércitos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4337" y="1460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-30" target="G-lD20OurCT-So66_UTj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-30" value="grupos organizados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4545" y="1485" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-31" target="G-lD20OurCT-So66_UTj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-31" value="&lt;b&gt;Mateo 26:53&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4680" y="1431.25" width="78.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-32" target="G-lD20OurCT-So66_UTj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-32" value="12 legiones de ángeles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4777" y="1475" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-35" target="G-lD20OurCT-So66_UTj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-35" value="pedro le corta la oreja al esclavo del sumo sacerdote" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4758.5" y="1375.5" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-37" value="1 legión=6000&amp;nbsp;&lt;br&gt;(en el primer siglo)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4771.5" y="1530" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-46" target="G-lD20OurCT-So66_UTj-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-46" value="&lt;b&gt;1 Reyes 22:20-22&lt;/b&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4173.5" y="1600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-62" target="G-lD20OurCT-So66_UTj-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4435" y="1580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-50" value="&lt;b&gt;Jehová valora a quienes lo obedecen&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4174" y="1650" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-51" target="G-lD20OurCT-So66_UTj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-51" value="&quot;¿quién engañará a Acab...?&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4185" y="1520" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-55" value="Jehová &lt;b&gt;escucha&lt;/b&gt; la opinión de sus siervos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4431" y="1632.25" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-57" value="Aunque el es perfecto, no espera que nosotros lo seamos. más bien nos ayuda (aunque seamos imperfectos) a que nos vaya bien&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="1624" width="235" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-58" target="G-lD20OurCT-So66_UTj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-58" value="&lt;b&gt;1 Reyes 22:23&lt;/b&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4174" y="1805" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-59" value="&lt;b&gt;Jehová&amp;nbsp; bendijo el trabajo de un ángel&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4171" y="1857" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-60" target="G-lD20OurCT-So66_UTj-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-60" value="&quot;un espíritu engañoso en boca de tus profetas&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="1735" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-62" value="A pesar de tener toda es autoridad, permite que quienes están bajo su autoridad le den sugerencias" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4430" y="1535" width="283" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-63" target="G-lD20OurCT-So66_UTj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-63" value="Cómo le habrá ido a este ángel" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4417" y="1700" width="283" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-66" target="G-lD20OurCT-So66_UTj-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-66" value="Los profetas de Acab le aseguraron que vencería&amp;nbsp; en la batalla contra Ramot-Galaad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4413" y="1790" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-67" value="Micaya predijo calamidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4413" y="1850" width="275" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-69" target="G-lD20OurCT-So66_UTj-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-69" value="Esta criatura celestial influyó sobre ellos para que no hablaran la verdad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4724" y="1780" width="196" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-70" target="G-lD20OurCT-So66_UTj-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-70" value="sino lo que ellos mismos deseaban decir y Acab deseaba escuchar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4719.5" y="1851.5" width="196" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-71" value="Acab recibió la advertencia&amp;nbsp; y prefirió que lo engañaran ... y eso le costó la vida" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4452.5" y="1920.75" width="196" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-75" target="G-lD20OurCT-So66_UTj-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-75" target="G-lD20OurCT-So66_UTj-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-75" target="G-lD20OurCT-So66_UTj-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-75" value="Qué podemos aprender de este relato??&lt;br&gt;&amp;nbsp;de como jehová usa su autoridad??" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4379" y="1987.88" width="301" height="92.12" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-81" value="&lt;b&gt;Jehová no impuso su idea&amp;nbsp;&lt;/b&gt; (seguramente que hubiera sido la manera perfecta)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4719.5" y="2065" width="196" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-82" value="Jehová tiene toda la autoridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4145" y="1973" width="170" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-83" value="escucha y valora a sus siervos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4167" y="2010" width="170" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-85" value="&lt;b&gt;A los que jehová ha dado cierta autoridad----&amp;gt; usen su autoridad como lo hace jehová&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4245" y="2272.5" width="465" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-86" value="&quot;vuelvan a su casa&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4337" y="1236.88" width="130" height="23.12" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-88" value="&lt;b&gt;6min&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4884" y="1700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-93" value="quienes deben imitar???" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4286" y="2095" width="199" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-lD20OurCT-So66_UTj-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="G-lD20OurCT-So66_UTj-35" target="G-lD20OurCT-So66_UTj-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T04:03:58.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FK2-9tFSdzyQzbzZ77lX" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T04:07:06.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vovd2G3NdRdvzXDWIHFU" version="21.1.8" type="github">
   <diagram id="UikP9Y_JkUgZuGgkAPA2" name="Página-1">
     <mxGraphModel dx="1918" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5678,8 +5678,8 @@
         <mxCell id="y8Mrs0GtOl4VG0EVDXa7-17" value="&lt;b&gt;FUNCIÓN DE COSTE&amp;nbsp; = FUNCIÓN OBJETIVO = FUNCIÓN DE PÉRDIDA = FUNCIÓN DE ERROR&lt;/b&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="987.5" width="550" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="y8Mrs0GtOl4VG0EVDXa7-21" value="CrossEntropyLoss = Logarithmic Loss" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="1305.25" width="260" height="40" as="geometry" />
+        <mxCell id="y8Mrs0GtOl4VG0EVDXa7-21" value="CrossEntropyLoss = Logarithmic Loss = Log Loss" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-429" y="1305" width="293" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y8Mrs0GtOl4VG0EVDXa7-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y8Mrs0GtOl4VG0EVDXa7-23" target="y8Mrs0GtOl4VG0EVDXa7-24">
           <mxGeometry relative="1" as="geometry" />
@@ -5720,11 +5720,20 @@
         <mxCell id="y8Mrs0GtOl4VG0EVDXa7-33" value="&lt;b&gt;- Configuración de la capa de salida&lt;/b&gt;: Un nodo con una unidad de activación linear&lt;br&gt;&lt;b&gt;- Función de pérdida&lt;/b&gt;: Mean Squared Error" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-730" y="1580" width="220" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="y8Mrs0GtOl4VG0EVDXa7-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y8Mrs0GtOl4VG0EVDXa7-35" target="y8Mrs0GtOl4VG0EVDXa7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y8Mrs0GtOl4VG0EVDXa7-35" value="&lt;b&gt;- Configuración de la capa de salida&lt;/b&gt;: Un nodo con una unidad de activación sigmoidea&lt;br&gt;&lt;b&gt;- Función de pérdida&lt;/b&gt;: Cross-Entropy loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1572.5" width="220" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="y8Mrs0GtOl4VG0EVDXa7-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y8Mrs0GtOl4VG0EVDXa7-36" target="y8Mrs0GtOl4VG0EVDXa7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y8Mrs0GtOl4VG0EVDXa7-36" value="&lt;b&gt;- Configuración de la capa de salida&lt;/b&gt;: Un nodo por cada clase utilizando la función de activación softmax&lt;br&gt;&lt;b&gt;- Función de pérdida&lt;/b&gt;: Cross-Entropy loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="1585" width="220" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y8Mrs0GtOl4VG0EVDXa7-39" value="Para la implementación se puede usar de scikit-learn: log_loss() function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1700" width="160" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
